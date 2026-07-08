@@ -1,0 +1,112 @@
+[
+  {
+    "Id": "d05fc51f-ff87-4f77-b96f-c731a54c5f2b",
+    "SenderAddress": "10.65.2.150:5050",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.124:5050",
+    "Message": "hi",
+    "Timestamp": "2026-06-26T10:27:45.2301602Z",
+    "Status": "Read",
+    "IsOutgoing": true
+  },
+  {
+    "Id": "4cf465e0-3962-4593-8c84-b5a67a97851a",
+    "SenderAddress": "10.65.2.150:5050",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.124:5050",
+    "Message": "hii",
+    "Timestamp": "2026-06-26T10:27:50.0783069Z",
+    "Status": "Read",
+    "IsOutgoing": true
+  },
+  {
+    "Id": "fd87adf1-16cd-4f14-822d-b494fab926a5",
+    "SenderAddress": "10.65.2.150:5050",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.124:5050",
+    "Message": "HI",
+    "Timestamp": "2026-06-26T11:35:20.8075431Z",
+    "Status": "Delivered",
+    "IsOutgoing": true
+  },
+  {
+    "Id": "88f6080f-fe31-42fd-984c-3816f3d9e5b1",
+    "SenderAddress": "10.65.2.150:5050",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.124:5050",
+    "Message": "poda balu",
+    "Timestamp": "2026-06-26T12:08:07.7025335Z",
+    "Status": "Read",
+    "IsOutgoing": true
+  },
+  {
+    "Id": "5a1c1d37-434a-4445-b853-4a6595b72ed1",
+    "SenderAddress": "10.65.2.149:5050",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.149:5051",
+    "Message": "hi",
+    "Timestamp": "2026-06-29T04:50:22.3730477Z",
+    "Status": "Read",
+    "IsOutgoing": false
+  },
+  {
+    "Id": "bb100bc8-0030-466a-ae3c-e06f0ed30f3d",
+    "SenderAddress": "10.65.2.149:5051",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.149:5050",
+    "Message": "gg",
+    "Timestamp": "2026-06-29T04:50:27.375666Z",
+    "Status": "Read",
+    "IsOutgoing": true
+  },
+  {
+    "Id": "f235c251-64db-4772-a259-6251dc2574e6",
+    "SenderAddress": "10.65.2.150:5051",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.150:5050",
+    "Message": "hi",
+    "Timestamp": "2026-06-29T05:22:59.4197928Z",
+    "Status": "Read",
+    "IsOutgoing": true
+  },
+  {
+    "Id": "ec17f792-0005-494d-b36f-0ea0899692b5",
+    "SenderAddress": "10.65.2.150:5050",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.150:5051",
+    "Message": "okay",
+    "Timestamp": "2026-06-29T05:23:11.447553Z",
+    "Status": "Read",
+    "IsOutgoing": false
+  },
+  {
+    "Id": "a949d552-e5f5-4343-a6aa-dd50efb3877a",
+    "SenderAddress": "10.65.2.150:5050",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.150:5051",
+    "Message": "s",
+    "Timestamp": "2026-06-29T05:23:17.2309449Z",
+    "Status": "Read",
+    "IsOutgoing": false
+  },
+  {
+    "Id": "bdf67e00-bd4b-47df-a10c-5a9fc78176d7",
+    "SenderAddress": "10.65.2.150:5051",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.150:5050",
+    "Message": "s",
+    "Timestamp": "2026-06-29T05:23:28.3386249Z",
+    "Status": "Read",
+    "IsOutgoing": true
+  },
+  {
+    "Id": "699575fc-f316-4d92-858f-86a5ce4f7d77",
+    "SenderAddress": "10.65.2.150:5051",
+    "SenderName": "GUNAPSIBERTECH (Gunasekaran)",
+    "RecipientAddress": "10.65.2.150:5050",
+    "Message": "\u2764\uFE0F",
+    "Timestamp": "2026-06-29T06:11:52.6777835Z",
+    "Status": "Read",
+    "IsOutgoing": true
+  }
+]
